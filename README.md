@@ -1,6 +1,6 @@
 Outline a element in Vue on focus or hover using the hand-drawn style of roughjs.
 
-![Example of sketch-outline in action. A cursor hovers over links that read "Sample Link" and a hand-drawn box appears when the link is hovered.](/demo/sketch-outline.gif)
+![Example of sketch-outline in action. A cursor hovers over links that read "Sample Link" and a hand-drawn box appears when the link is hovered.](/tree/master/demo/sketch-outline.gif)
 
 # Usage
 
