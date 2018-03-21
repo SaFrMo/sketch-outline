@@ -1,7 +1,7 @@
 {
   "name": "sketch-outline",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Outline a element in Vue on focus or hover using the hand-drawn style of roughjs.",
   "main": "SketchOutline.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "roughjs": "^2.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaFrMo/sketch-outline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SaFrMo/sketch-outline/issues"
+  },
+  "homepage": "https://github.com/SaFrMo/sketch-outline#readme"
 }
