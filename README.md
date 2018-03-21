@@ -12,9 +12,9 @@ import SketchOutline from 'sketch-outline'
 Vue.component('sketch-outline', SketchOutline)
 ```
 
-```html
+```
 <template>
-    <!-- Then use in a template --->
+    <!-- Then use in a template -->
     <sketch-outline color="#c00">
         <h1>Red outline on hover</h1>
     </sketch-outline>
